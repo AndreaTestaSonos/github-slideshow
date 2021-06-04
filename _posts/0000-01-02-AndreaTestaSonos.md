@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Bu Bu BU
+Skarrapanatzu! sempre io sono!
+;) ;) 
 Use the left arrow to go back!
